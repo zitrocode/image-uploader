@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://image-uploader-zitrocode.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/GqNb8N9VlGSPRuRUiH9k">
       Solution
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 ![screenshot](./preview.png)
 
-Welcome to my Image Uploader project! In this challenge, I've created an image uploading system using React and Express technologies. I invite you to check out the [live demo here](https://{your-site.com}), where you can experience how the image uploader works.
+Welcome to my Image Uploader project! In this challenge, I've created an image uploading system using React and Express technologies. I invite you to check out the [live demo here](https://image-uploader-zitrocode.vercel.app/), where you can experience how the image uploader works.
 
 I must confess, this was my first time developing an application that allows drag and drop functionality for images, and I have to say that the process was exhilarating. Discovering how drag and drop events function and interact with the user interface was a journey full of learning and discoveries.
 
@@ -75,25 +75,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/zitrocode/image-uploader.git
 ```
 
-### Installation and Configuration for Client
+### Installation and Configuration
 
 ```bash
-# Move to client folder
-cd ./client/
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm run dev
-```
-
-### Installation and Configuration for Server
-
-```bash
-# Move to server folder
-cd ./server/
-
 # Install dependencies
 $ npm install
 
